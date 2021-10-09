@@ -53,7 +53,7 @@ curl --location --request POST 'http://localhost:8080/posts' \
 ```
 curl --location --request GET 'http://localhost:8080/posts/6161c3a4b5b588a9094ad0c9'
 ```
-![](test_images/getpostid.png?raw=true "Title")  
+![](https://drive.google.com/file/d/1HyWB7hpRJZ07Q2KY7glgTJBgVaHc_7kf/view?usp=sharing?raw=true "Title")  
 and if you want to move through pages then use the following method
 ```
 curl --location --request GET 'http://localhost:8080/posts/6161c3a4b5b588a9094ad0c9/2'
