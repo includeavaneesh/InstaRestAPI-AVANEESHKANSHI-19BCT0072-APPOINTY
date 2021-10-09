@@ -28,7 +28,7 @@ curl --location --request POST 'http://localhost:8080/users' \
     "password":"passkey"
 }'
 ```
-![](test_images/createuser.png?raw=true "Title") 
+![](https://github.com/includeavaneesh/InstaRestAPI-AVANEESHKANSHI-19BCT0072-APPOINTY/test_images/createuser.PNG?raw=true "Title") 
 
 * To get User details from User ID
 ```
